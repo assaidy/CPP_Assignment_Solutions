@@ -1,0 +1,18 @@
+main menue:
+-----------
+1- manager
+2- user
+3- exit
+
+user:
+-----
+1- display menue of products
+2- buy a product
+3- exit (return to main menue)
+
+manager:
+--------
+1- add product.
+2- delete product.
+3- edit price (update)
+4- exit (return to main menue)

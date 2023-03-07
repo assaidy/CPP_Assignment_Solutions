@@ -1,0 +1,23 @@
+1. main menue
+2. user select a program from 11 program
+3. call program function
+4. return to main menue
+5. go to step 2
+6. if user select exit => close the program
+
+
+press any key to start calculation...
+=======================================
+select the operation you want (form 1 to 11):
+
+ 1) addition
+ 2) subtraction
+ 3) multiplication
+ 4) division
+ 5) squaring
+ 6) square root
+ 7) even or odd
+ 8) power
+ 9) table of items
+10) determinant
+11) exit
